@@ -1,10 +1,6 @@
 /*-----------------------------------------------------------------
 
-Template Name: FarmHub - Agriculture Farming HTML Template<
-Author:  Mugli
-Author URI: https://themeforest.net/user/mugli/portfolio
-Version: 1.0.0
-Description: FarmHub - Agriculture Farming HTML Template<
+
 
 -------------------------------------------------------------------
 CSS TABLE OF CONTENTS
