@@ -4896,7 +4896,7 @@ iframe {
   background: url(../img/about/vivek-kumar-JS_ohjocm00-unsplash.jpg) no-repeat center center;
   background-size: cover;
   position: relative;
-  padding: 150px 0;
+  padding: 100px 0;
   z-index: 1;
 }
 .breadcrumnd-banner::before {
@@ -4937,12 +4937,12 @@ iframe {
 }
 @media (max-width: 1199px) {
   .breadcrumnd-banner {
-    padding: 80px 0;
+    padding: 50px 0;
   }
 }
 @media (max-width: 991px) {
   .breadcrumnd-banner {
-    padding: 80px 0 90px;
+    padding: 45px 0 90px;
   }
   .breadcrumnd-banner .breadcrumnd-wrapp {
     display: flex;
