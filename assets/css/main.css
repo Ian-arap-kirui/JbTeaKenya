@@ -7137,7 +7137,7 @@ input.main-search-input::placeholder {
   line-height: 32px;
   font-weight: 400;
 }
-.section-title h2 {
+.section-title h2 ,h3, h4 {
   font-weight: 400;
   color: var(--p900-clr);
 }
